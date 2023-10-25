@@ -4,7 +4,7 @@ This repository contains the code and results for two reinforcement learning que
 
 ## 1: Multi-armed Bandit
 
-In this part of the project, I implemented a 10-armed testbed following the description in Section 2.3 of the textbook. I compared three methods of action value estimation:
+In this part of the project, I implemented a 10-armed testbed. I compared three methods of action value estimation:
 
 ### (a) Epsilon-Greedy Action Selection
 
@@ -21,7 +21,7 @@ In this part of the project, I implemented a 10-armed testbed following the desc
 - Tuning the confidence bound parameter to balance exploration and exploitation.
 - Investigating the impact of different confidence bounds on action selection and average rewards.
 
-I have provided visualizations similar to Figure 2.3 and Figure 2.4 to report our findings and conclusions.
+I have provided visualizations report my findings and conclusions.
 
 ## 2: Markov Reward Process
 
